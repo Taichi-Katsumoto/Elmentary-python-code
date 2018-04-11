@@ -1,0 +1,17 @@
+\import
+<http://python.matrix.jp/pages/tips/import.html>
+
+\Class
+<https://www.python-izm.com/advanced/class/>
+<http://python.keicode.com/lang/oop-basics.php>
+<http://bacspot.dip.jp/virtual_link/www/si.musashi-tech.ac.jp/new_www/Python_1HourStudy/index_class.html>
+<https://algorithm.joho.info/programming/python-constructor/>
+<http://yoshiori.hatenablog.com/entry/20090716/1247720811>
+
+\pandas
+
+
+\numpy
+
+
+\matplotlib
